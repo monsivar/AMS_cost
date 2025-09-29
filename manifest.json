@@ -1,0 +1,13 @@
+{
+  "domain": "ams_costs",
+  "name": "AMS Costs (hour/day/month)",
+  "version": "0.1.1",
+  "documentation": "https://example.invalid/ams_costs",
+  "requirements": [],
+  "codeowners": [
+    "@mons-ivar"
+  ],
+  "iot_class": "local_push",
+  "integration_type": "hub",
+  "config_flow": true
+}
